@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bar {
+  height: 32vw;
+  width: 2.25vw;
+  background-color: rgb(179, 179, 253);
+  margin-right: 5px;
+  align-self: baseline;
+}
+
+#bars {
+  width: 90vw;
+  display: flex;
+  margin: auto;
+  margin-top: 20vw;
+}
